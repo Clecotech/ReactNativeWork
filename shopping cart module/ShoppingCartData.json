@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "shopName" : "Apna Sweets",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "Burger",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/Hamburger_(black_bg).jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 1,
+          "maxQuantity": 10,
+          "itemDes": "A hamburger, beefburger or burger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun."
+        },
+        {
+          "itemName": "pasta",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/pasta.jpeg",
+          "itemPrice": 110.00,
+          "minQuantity": 1,
+          "maxQuantity": 20,
+          "itemDes": ""
+        },
+        {
+          "itemName": "pizza",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/pizza.jpg",
+          "itemPrice": 120.00,
+          "minQuantity": 1,
+          "maxQuantity": 30,
+          "itemDes": ""
+        },
+        {
+          "itemName": "sandwich",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/sandwich.jpg",
+          "itemPrice": 130.00,
+          "minQuantity": 1,
+          "maxQuantity": 40,
+          "itemDes": ""
+        }
+      ]
+    },
+    {
+      "shopName" : "Tinkus Cafe",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "sandwich",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/sandwich.jpg",
+          "itemPrice": 140.00,
+          "minQuantity": 1,
+          "maxQuantity": 5,
+          "itemDes": ""
+        },
+        {
+          "itemName": "pizza",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/pizza.jpg",
+          "itemPrice": 150.00,
+          "minQuantity": 1,
+          "maxQuantity": 15,
+          "itemDes": ""
+        },
+        {
+          "itemName": "crispy potato",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/crispyPoptato.jpeg",
+          "itemPrice": 160.00,
+          "minQuantity": 1,
+          "maxQuantity": 22,
+          "itemDes": ""
+        },
+        {
+          "itemName": "burger",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/Hamburger_(black_bg).jpg",
+          "itemPrice": 170.00,
+          "minQuantity": 1,
+          "maxQuantity": 24,
+          "itemDes": ""
+        }
+      ]
+    },
+    {
+      "shopName" : "Nafees restaurent",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "chicken biryani",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/chickenBiryani.jpg",
+          "itemPrice": 400.00,
+          "minQuantity": 1,
+          "maxQuantity": 6,
+          "itemDes": ""
+        },
+        {
+          "itemName": "chicken lollipop",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/chickenLollipop.jpg",
+          "itemPrice": 280.00,
+          "minQuantity": 1,
+          "maxQuantity": 8,
+          "itemDes": ""
+        },
+        {
+          "itemName": "mutton biryani",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/muttonBiryani.jpg",
+          "itemPrice": 580.00,
+          "minQuantity": 1,
+          "maxQuantity": 10,
+          "itemDes": ""
+        },
+        {
+          "itemName": "tava mutton",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/tavamutton.jpeg",
+          "itemPrice": 600.00,
+          "minQuantity": 1,
+          "maxQuantity": 100,
+          "itemDes": ""
+        }
+      ]
+    },
+    {
+      "shopName" : "Kolkatta rolls",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "veg rolls",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/vegrolls.jpeg",
+          "itemPrice": 50.00,
+          "minQuantity": 1,
+          "maxQuantity": 3,
+          "itemDes": ""
+        },
+        {
+          "itemName": "paneer roll",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/vegrolls.jpeg",
+          "itemPrice": 100.00,
+          "minQuantity": 1,
+          "maxQuantity": 9,
+          "itemDes": ""
+        }
+      ]
+    },
+    {
+      "shopName" : "sagar gaire",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "Cheeze pasta",
+          "itemId": "10001",
+          "itemimg": "/Users/ashishprajapati/Desktop/pasta.jpeg",
+          "itemPrice": 200.00,
+          "minQuantity": 1,
+          "maxQuantity": 20,
+          "itemDes": ""
+        }
+      ]
+    }
+  ]
+}

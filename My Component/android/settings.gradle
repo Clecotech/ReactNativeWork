@@ -1,0 +1,2 @@
+rootProject.name = 'MyComponent'
+include ':app'

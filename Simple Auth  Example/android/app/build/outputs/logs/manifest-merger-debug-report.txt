@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/1b5289ce13801719a354e259646935db/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/b4cdbb217d6d72fef1009fffe5ddb033/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/da0e9dac22ce7e0649ea27aa1d31ad5c/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/81ea2160e4c826af725e1a9ed1e176c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/3693e13e424f80bb83ec2a23d257f300/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/97876ed6a5276f2ffd062b00d2a941eb/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/98ac678fc9467b1390ce6b05974dd752/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/cb56c6298e4c40d0803a733e8beac321/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a05190157d0b10050780e8c6de21ddc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/b13a26f8537efa98011ef2cd5b6cffe0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f68ac2258f7b0f7eb715dba5cb136dc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b431c397f9f615c8bfba98d032f971ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/60b6a53ad7d5fe7b5b45a97ee9582599/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/9680f7daaef76f577dbe4576cca27b08/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/b0a112399c5bba1b16b098b2a8df8cb5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/cbc4993a440503f30865f12113f338b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/7c61c1c06dc6e40926637cb60865c635/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/e3a53025c09ca9e2498532ee424d4271/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b1e555380ef9e6655cd69de2c4fa9e14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/14fd3e3f8d9617eaf333c16228b00a69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8b687e72e11ea951ed5a47e5870c765/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a2d87459488b465a016ead0c087b59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a3c2e3adfcc3d7a162881c0e2d92d7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f8803afd3ad4b4120c67943e6266cbe5/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/952e9dbe083fc3f25b5b2e87fba1ccbb/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/46decf1a447d871c4653ccae58a1f236/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/009c885d7a0befebdd4f18f99887556a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b322003c228fab2a05702f171eaf04e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/46d9775224288ed3815f4a62e737c173/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/35d7e6184bf21653a1d11123be42762e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12
+	package
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/1b5289ce13801719a354e259646935db/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/1b5289ce13801719a354e259646935db/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/b4cdbb217d6d72fef1009fffe5ddb033/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/b4cdbb217d6d72fef1009fffe5ddb033/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/da0e9dac22ce7e0649ea27aa1d31ad5c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/da0e9dac22ce7e0649ea27aa1d31ad5c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/81ea2160e4c826af725e1a9ed1e176c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/81ea2160e4c826af725e1a9ed1e176c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/3693e13e424f80bb83ec2a23d257f300/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/3693e13e424f80bb83ec2a23d257f300/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/97876ed6a5276f2ffd062b00d2a941eb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/97876ed6a5276f2ffd062b00d2a941eb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/98ac678fc9467b1390ce6b05974dd752/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/98ac678fc9467b1390ce6b05974dd752/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/cb56c6298e4c40d0803a733e8beac321/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/cb56c6298e4c40d0803a733e8beac321/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a05190157d0b10050780e8c6de21ddc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a05190157d0b10050780e8c6de21ddc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/b13a26f8537efa98011ef2cd5b6cffe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/b13a26f8537efa98011ef2cd5b6cffe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f68ac2258f7b0f7eb715dba5cb136dc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f68ac2258f7b0f7eb715dba5cb136dc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b431c397f9f615c8bfba98d032f971ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b431c397f9f615c8bfba98d032f971ac/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/60b6a53ad7d5fe7b5b45a97ee9582599/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/60b6a53ad7d5fe7b5b45a97ee9582599/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/9680f7daaef76f577dbe4576cca27b08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/9680f7daaef76f577dbe4576cca27b08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/b0a112399c5bba1b16b098b2a8df8cb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/b0a112399c5bba1b16b098b2a8df8cb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/cbc4993a440503f30865f12113f338b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/cbc4993a440503f30865f12113f338b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/7c61c1c06dc6e40926637cb60865c635/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/7c61c1c06dc6e40926637cb60865c635/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/e3a53025c09ca9e2498532ee424d4271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/e3a53025c09ca9e2498532ee424d4271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b1e555380ef9e6655cd69de2c4fa9e14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b1e555380ef9e6655cd69de2c4fa9e14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/14fd3e3f8d9617eaf333c16228b00a69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/14fd3e3f8d9617eaf333c16228b00a69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8b687e72e11ea951ed5a47e5870c765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8b687e72e11ea951ed5a47e5870c765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a2d87459488b465a016ead0c087b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a2d87459488b465a016ead0c087b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a3c2e3adfcc3d7a162881c0e2d92d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a3c2e3adfcc3d7a162881c0e2d92d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f8803afd3ad4b4120c67943e6266cbe5/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f8803afd3ad4b4120c67943e6266cbe5/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/46decf1a447d871c4653ccae58a1f236/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/46decf1a447d871c4653ccae58a1f236/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/009c885d7a0befebdd4f18f99887556a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/009c885d7a0befebdd4f18f99887556a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b322003c228fab2a05702f171eaf04e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b322003c228fab2a05702f171eaf04e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/46d9775224288ed3815f4a62e737c173/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/46d9775224288ed3815f4a62e737c173/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/35d7e6184bf21653a1d11123be42762e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/35d7e6184bf21653a1d11123be42762e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:13:5-60:19
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/f307de5e0a5fa977ebd8c76823852fde/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/1b5289ce13801719a354e259646935db/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/1b5289ce13801719a354e259646935db/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/b4cdbb217d6d72fef1009fffe5ddb033/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-login-4.32.0.aar/b4cdbb217d6d72fef1009fffe5ddb033/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/da0e9dac22ce7e0649ea27aa1d31ad5c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-share-4.32.0.aar/da0e9dac22ce7e0649ea27aa1d31ad5c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/97876ed6a5276f2ffd062b00d2a941eb/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-places-4.32.0.aar/97876ed6a5276f2ffd062b00d2a941eb/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/98ac678fc9467b1390ce6b05974dd752/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.32.0.aar/98ac678fc9467b1390ce6b05974dd752/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/cb56c6298e4c40d0803a733e8beac321/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.32.0.aar/cb56c6298e4c40d0803a733e8beac321/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f8803afd3ad4b4120c67943e6266cbe5/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f8803afd3ad4b4120c67943e6266cbe5/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/952e9dbe083fc3f25b5b2e87fba1ccbb/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/952e9dbe083fc3f25b5b2e87fba1ccbb/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.32.0.aar/1b5289ce13801719a354e259646935db/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:14:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:20:9-21:54
+	android:value
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:20:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:23:9-26:48
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:24:13-113
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:23:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:exported
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:28:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:30:13-35:29
+action#android.intent.action.VIEW
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:33:27-75
+data
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:34:17-75
+	android:scheme
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:34:23-72
+activity#com.reactnativesimpleauthexample.MainActivity
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:37:7-58:18
+	android:label
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:40:9-41
+	android:launchMode
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:39:9-40
+	android:configChanges
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:41:9-79
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:38:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:42:9-45:25
+action#android.intent.action.MAIN
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:43:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:44:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.reactnativesimpleauthexample
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:46:9-51:25
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:fb904958326237050
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:52:8-57:25
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:59:7-84
+	android:name
+		ADDED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:59:17-81
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-common-4.32.0.aar/ac2e8527700b27bb453324928da218dd/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.32.0] /Users/clecotech/.gradle/caches/transforms-1/files-1.1/facebook-core-4.32.0.aar/b7cee54d894cfa4cde0c971d6002965b/AndroidManifest.xml:40:13-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/src/main/AndroidManifest.xml:1:1-62:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

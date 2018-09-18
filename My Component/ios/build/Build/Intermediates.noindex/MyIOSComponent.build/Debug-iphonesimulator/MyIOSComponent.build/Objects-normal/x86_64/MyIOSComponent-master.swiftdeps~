@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "561dded9d0f9f70b621bc37c47894c17"
+build_time: [1527156982, 723889000]
+inputs:
+  "/Users/clecotech/Documents/modules/MyComponent/ios/MyIOSComponent/ViewController.swift": [1527154106, 0]
+  "/Users/clecotech/Documents/modules/MyComponent/ios/MyIOSComponent/AppDelegate.swift": [1527156413, 0]

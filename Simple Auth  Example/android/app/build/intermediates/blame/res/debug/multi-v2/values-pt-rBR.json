@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/clecotech/Documents/modules/oAuth/ReactNativeSimpleAuthExample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/Users/clecotech/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/81ea2160e4c826af725e1a9ed1e176c3/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    }
+                },
+                {
+                    "source": "/Users/clecotech/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a3c2e3adfcc3d7a162881c0e2d92d7d/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1989",
+                        "endColumns": "100",
+                        "endOffsets": "2085"
+                    }
+                }
+            ]
+        }
+    ]
+}
