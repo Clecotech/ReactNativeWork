@@ -1,0 +1,3 @@
+rootProject.name = 'ListModule'
+
+include ':app'

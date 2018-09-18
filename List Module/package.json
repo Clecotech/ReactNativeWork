@@ -1,0 +1,32 @@
+{
+  "name": "ListModule",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.4.2",
+    "react": "16.3.1",
+    "react-native": "0.55.3",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-render-html": "^3.9.3",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.2.0",
+    "remote-redux-devtools": "^0.5.12"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
